@@ -1,11 +1,11 @@
 ## Hi there 👋
-##English
+English
 - 🌱 I’m currently learning Python
 - 👯 I'm seek to collaborate with successful technology companies, such as Microsoft, etc.
 - 🤔 I'm looking for help with high-level programming languages ​​to become a full stack developer
 - 📫 How to reach me: Just be a good kind friend.
 
-##Português
+Português
 - 🌱 Atualmente estou aprendendo Python
 - 👯 Procuro colaborar com empresas de tecnologia de sucesso, como Microsoft, etc.
 - 🤔 Estou procurando ajuda com linguagens de programação de alto nível para me tornar um desenvolvedor full stack
